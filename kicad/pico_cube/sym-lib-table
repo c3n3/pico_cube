@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pico)(type Legacy)(uri ${KIPRJMOD}/lib/pico.lib)(options "")(descr ""))
+  (lib (name generic)(type Legacy)(uri ${KIPRJMOD}/lib/generic.lib)(options "")(descr ""))
+)
